@@ -26,6 +26,7 @@ Terminal or Command Prompt
 Clone the repository:
 
 git clone https://github.com/Aaryanpatidar/Task-1-Elevate-Labs.git
+
 cd Calculator
 
 
